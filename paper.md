@@ -1,23 +1,21 @@
 ---
-title: 'Characterization of potential drug treatments for COVID-19 using social media data and machine learning'
+title: 'BioHackrXiv  template'
 tags:
-  - COVID-19
-  - Machine Learning
-  - NLP
-  - Twitter
+  - replace with your own keywords
+  - at least is recommended
 authors:
-  - name: Ramya Tekumalla
-    orcid: 0000-0002-1606-4856
+  - name: First Last
+    orcid: 0000-0000-0000-0000
     affiliation: 1
-
-  - name: Juan Banda 
-    orcid: 0000-0001-8499-824X
-    affiliation: 1
+  - name: Second Last
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
 affiliations:
- - name: Georgia State University, Atlanta, Georgia, USA
+ - name: Institution 1, address, city, country
    index: 1
- 
-date: 22 May 2020
+ - name: Institution 1, address, city, country
+   index: 2
+date: 01 January 2020
 bibliography: paper.bib
 ---
 
