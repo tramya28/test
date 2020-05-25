@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of potential Drug Treatments for COVID-19'
+title: 'Characterization of Potential Drug Treatments for COVID-19 using Twitter'
 tags:
   - replace with your own keywords
   - at least is recommended
