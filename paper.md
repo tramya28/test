@@ -14,7 +14,7 @@ affiliations:
    index: 1
  - name: Georgia State University, Atlanta, Georgia, US
    index: 2
-date: 01 January 2020
+date: 22 May 2020
 bibliography: paper.bib
 ---
 
