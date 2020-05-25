@@ -9,12 +9,10 @@ authors:
     affiliation: 1
   - name: Second Last
     orcid: 0000-0000-0000-0000
-    affiliation: 2
+    affiliation: 1
 affiliations:
  - name: Institution 1, address, city, country
    index: 1
- - name: Institution 1, address, city, country
-   index: 2
 date: 01 January 2020
 bibliography: paper.bib
 ---
