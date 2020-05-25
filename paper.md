@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of Potential Drug Treatments for COVID-19 using Social Media and Machine Learning'
+title: 'Characterization of Potential Drug Treatments for COVID-19 using Twitter and Machine Learning'
 tags:
   - COVID-19
   - Machine Learning
