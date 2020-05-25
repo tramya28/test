@@ -1,7 +1,9 @@
 ---
 title: 'Characterization of Potential Drug Treatments for COVID-19 using Social Media Data and Machine Learning'
 tags:
-  - COVID-19, Machine Learning, Twitter, drugs
+  - COVID-19
+  - Machine Learning
+  - Twitter
 authors:
   - name: Ramya Tekumalla
     orcid: 0000-0002-1606-4856
@@ -12,7 +14,7 @@ authors:
 affiliations:
  - name: Georgia State University, Atlanta, Georgia, USA
    index: 1
- - name: Georgia State University, Atlanta, Georgia, US
+ - name: Georgia State University, Atlanta, Georgia, USA
    index: 2
 date: 22 May 2020
 bibliography: paper.bib
