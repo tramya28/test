@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of Potential Drug Treatments for COVID-19 using Social Media Data and Machine Learning'
+title: 'Characterization of Potential Drug'
 tags:
   - replace with your own keywords
   - at least is recommended
