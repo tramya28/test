@@ -1,5 +1,5 @@
 ---
-title: 'BioHackrXiv  template'
+title: 'Characterization of Potential Drug Treatments for COVID-19 using Social Media Data and Machine Learning'
 tags:
   - replace with your own keywords
   - at least is recommended
@@ -21,3 +21,4 @@ bibliography: paper.bib
 # Introduction 
 
 The World Health Organization (WHO) defines the Coronavirus disease (COVID-19) as an infectious disease caused by a newly discovered coronavirus and declared it a pandemic on March 11, 2020 [@Katayama:2010]. 
+p
