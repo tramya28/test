@@ -18,6 +18,9 @@ date: 22 May 2020
 bibliography: paper.bib
 ---
 
+# Abstract
+
+Since the classification of COVID-19 as a global pandemic, there have been many attempts to treat and contain the virus. Although there is no specific antiviral treatment recommended for COVID-19, there are several drugs that can potentially help with symptoms. In this work, we mined a large twitter dataset of 280 million tweets of COVID-19 chatter to identify discourse around potential treatments. While seemingly a straightforward task, due to the informal nature of language use in Twitter, we demonstrate the need of machine learning methods to aid in this task. By applying these methods we are able to recover almost 21% additional data than with traditional methods.
 
 # Introduction 
 
